@@ -20,7 +20,7 @@
  
     },
     {"tag": "options",
-     "patterns": ["How you could help me?", "What help you provide?", "How you can be helpful?","What do you do?"],
+     "patterns": ["How you could help me?", "What help you provide?","I am bored", "How you can be helpful?","What do you do?"],
      "responses": ["I can show you some latest electronic gadegets" , 
                     "I can show you some really cool Smartphones" , 
                     "Why don't i show you some awesome Headphones" , 
